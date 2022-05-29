@@ -141,8 +141,8 @@ namespace ITAcademy
                         // medicamento à lista PCM e imprimirá na tela todas as informações referente a esse medicamento.
                         if (medicamento.EAN1.Equals(codigoDeBarra))
                         {
-                            PCM.Add(double.Parse(medicamento.PMC0));
-                            Console.WriteLine(medicamento.ToString());
+                            PCM.Add(double.Parse(medicamento.PMC0)); //ex: 7899640809806
+                            //Console.WriteLine(medicamento.ToString());
                         }
                     }
 
@@ -153,9 +153,9 @@ namespace ITAcademy
                     menorPcm = menorPcm != maiorPcm ? menorPcm : 0;
 
                     // Imprime na tela o valor do maior PCM, do menor PCM e a diferença de ambos.
-                    Console.WriteLine("\nO maior valor do PMC é: {0}" +
-                                      "\nO menor valor do PMC é: {1} " +
-                                      "\nA diferença entre os dois é: {2}",
+                    Console.WriteLine("\nO maior valor do PMC 0% é: {0}" +
+                                      "\nO menor valor do PMC 0% é: {1} " +
+                                      "\nA diferença entre os dois PCM 0% é: {2}",
                                       maiorPcm, menorPcm, maiorPcm - menorPcm);
                 }
                 // Caso haja alguma exceção, ele mostrará ela e fara o tratamento necessário.
