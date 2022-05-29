@@ -1,0 +1,8 @@
+C:\Prog\ws-csharp\ITAcademy\ITAcademy\bin\Debug\ITAcademy.exe.config
+C:\Prog\ws-csharp\ITAcademy\ITAcademy\bin\Debug\ITAcademy.exe
+C:\Prog\ws-csharp\ITAcademy\ITAcademy\bin\Debug\ITAcademy.pdb
+C:\Prog\ws-csharp\ITAcademy\ITAcademy\obj\Debug\ITAcademy.csproj.AssemblyReference.cache
+C:\Prog\ws-csharp\ITAcademy\ITAcademy\obj\Debug\ITAcademy.csproj.SuggestedBindingRedirects.cache
+C:\Prog\ws-csharp\ITAcademy\ITAcademy\obj\Debug\ITAcademy.csproj.CoreCompileInputs.cache
+C:\Prog\ws-csharp\ITAcademy\ITAcademy\obj\Debug\ITAcademy.exe
+C:\Prog\ws-csharp\ITAcademy\ITAcademy\obj\Debug\ITAcademy.pdb
